@@ -1,0 +1,13 @@
+Part,Description,Qty,Unit Price (USD),Total Price (USD),Vendor
+RP2040 Microcontroller,Processor,3,1,3,LCSC
+SX1262 LoRa Transceiver,LORA module,3,3.4,10.2,LCSC
+W25Q128 128M-bit Flash,SPI Flash Memory with Dual/Quad SPI,3,2.6,7.8,LCSC
+USB-C Receptacle 16P,"USB Type C Receptacle for USB 2.0, SMT Type, PCB Top Mount",3,1.5,4.5,LCSC
+AP2112K-3.3 600mA LDO,600mA CMOS LDO REGULATOR WITH ENABLE,3,0.18,0.54,LCSC
+0900FM15K0039 Balun,Signal Conditioning SX1261/2 IPC T&R,3,0.5,1.5,Mouser Electronics
+PE4259 RF Switch,SPDT High Power UltraCMOS RF Switch,3,1.16,3.48,LCSC
+32/12 MHz Crystal,CRYSTAL 32MHz 12pF SMD,6,0.1,0.6,LCSC
+Pin Headers Set,Connections,2,2.5,5,AliExpress
+Capacitor/Inductors/Resisotrs,Capacitating,90,0.1,9,LCSC
+C&K PTS636SK25SMTRLFS,SWITCH TACTILE SPST-NO 250gf SMD,6,0.4,2.4,LCSC
+Mems sensors,Measuring small movements of the bridge,10,1.8,18,AliExpress
