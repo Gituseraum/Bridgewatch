@@ -1,0 +1,15 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-F_Cu.gbr'.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-In1_Cu.gbr'.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-In2_Cu.gbr'.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-B_Cu.gbr'.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-F_Paste.gbr'.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-B_Paste.gbr'.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-F_Mask.gbr'.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-B_Mask.gbr'.
+Plotted to 'C:\Users\a4aum\bridgewatch\bridgewatch-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\a4aum\bridgewatch\bridgewatch-job.gbrjob'.
+Info: Done.
