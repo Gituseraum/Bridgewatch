@@ -24,7 +24,8 @@ Rather than replacing professional bridge inspections, our device serves as an *
 ---
 # Schematic
 <img width="587" height="412" alt="Screenshot 2026-09-09 191422" src="https://github.com/user-attachments/assets/9f466828-e2b5-451b-8117-7e979da28459" />
-
+# Route
+<img width="310" height="447" alt="Screenshot 2026-10-11 212952" src="https://github.com/user-attachments/assets/8dd7cb9a-3870-422b-b02c-c8d934b482f4" />
 # Mobile App Features
 
 ## Dashboard
