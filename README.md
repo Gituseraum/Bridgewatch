@@ -36,7 +36,7 @@ Rather than replacing professional bridge inspections, our device serves as an *
 The dashboard provides a quick overview of the bridge's current condition.
 
 ### Features
-
+The app alredy has there fetures only needs the data form the module once its made you can see the project at bridgewatch.netlify.app
 - Bridge Health Score
 - Bridge Status (Normal / Warning / Critical)
 - Battery Level
